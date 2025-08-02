@@ -18,9 +18,7 @@ A comprehensive luxury hotel booking and management Android application built wi
 - **Minimum SDK**: 24 (Android 7.0)
 - **Target SDK**: 36 (Android 14)
 - **Architecture Pattern**: MVVM (Model-View-ViewModel)
-- **Database**: Room Database (SQLite wrapper)
-- **Image Loading**: Glide library
-- **UI Framework**: Material Design with ViewBinding
+- **Database**: Room Database
 
 ### Project Structure
 ```
